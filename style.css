@@ -498,11 +498,6 @@ pre.w-code-block code {
     display: contents
 }
 
-@font-face {
-    font-family: 'Seasons';
-    src: url(/Fontspring-DEMO-theseasons-reg.otf);
-}
-
 .Mineria {
     font-family: 'Seasons', sans-serif;
     color: #51b8b8;
@@ -17294,4 +17289,9 @@ figcaption {
     font-weight: 600;
     font-style: normal;
     font-display: swap;
+}
+
+@font-face {
+    font-family: 'Seasons';
+    src: url(Fontspring-DEMO-theseasons-reg.otf);
 }
