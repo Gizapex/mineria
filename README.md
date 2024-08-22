@@ -2,4 +2,4 @@
 
  Projet en cours...
  
- (Projet avec template /!\)
+ (Projet avec template)
